@@ -34,7 +34,7 @@ def send_request(url, payload, proxy, useragent, port):
         print(str(e))
 
 def main(url, run_time, num_threads):
-    proxies = get_proxies('proxy.txt')
+    proxies = get_proxies('http.txt')
     useragents = get_useragents('ua.txt')
     data = read_file('data.xml')
     threads_finished = 0
