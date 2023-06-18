@@ -1,0 +1,16 @@
+<?xml?>
+<request>
+  <method>POST</method>
+  <headers>
+    <Referer>objetive</Referer>
+    <User-agent>UAs[Math.floor(Math.random() * UAs.length)]ฏ๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎ํํํํํํํํํํํํ­ํํํํํํํํํํํํํํ้้้้้้้้­้้้้้้้้้้้้้้้ ฏ๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎ํํํํํํํํํํํํ­ํํํํํํํํํํํํํํํํํํํํ­ํํํํํํํํํํํํํํํํ </User-agent>
+    <Cache-Control>no-cache, no-store,private, max-age=0, must-revalidate</Cache-Control>
+    <Pragma>no-cache, no-store,private, max-age=0, must-revalidate</Pragma>
+    <client-control>max-age=43200, s-max-age=43200</client-control>
+    <Upgrade-Insecure-Requests>1</Upgrade-Insecure-Requests>
+    <Accept>text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9</Accept>
+    <Accept-Encoding>gzip, deflate, br,ฏ๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎ํํํํํํํํํํํํ­ํํํํํํํํํํํํํํ้้้้้้้้­้้้้้้้้้้้้้้้ ฏ๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎๎­๎๎๎๎๎๎๎๎ํํํํํํํํํํํํ­ํํํํํํํํํํํํํํํํํํํํ­ํํํํํํํํํํํํํํํํ </Accept-Encoding>
+    <Accept-Language>utf-8, iso-8859-1;q=0.5, *;q=0.1</Accept-Language>
+    <path>parsed.path</path>
+  </headers>
+</request>
