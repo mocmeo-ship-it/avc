@@ -47,6 +47,6 @@ async def attack(target):
                     await response.release()
         except requests.exceptions.RequestException as e:
             print("Error:", e)
-            break
+            pass
 
 asyncio.run(attack(url))
